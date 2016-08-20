@@ -1,0 +1,11 @@
+.caja1, .caja2, .caja3 {
+	border: 2px solid #efa06c;
+	padding: 0px 8px; 
+  	width: 230px;
+  	margin-top: 0px;
+}
+
+h4, p {
+	font-size: 110%;
+	font-family: Times New Roman, Arial;
+}
